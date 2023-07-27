@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "antisoundspam", "antisoundspam.vcxproj", "{BAE781E9-311D-4CF0-8CAD-6565F978DF04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAE781E9-311D-4CF0-8CAD-6565F978DF04}.Debug|x86.ActiveCfg = Debug|Win32
+		{BAE781E9-311D-4CF0-8CAD-6565F978DF04}.Debug|x86.Build.0 = Debug|Win32
+		{BAE781E9-311D-4CF0-8CAD-6565F978DF04}.Release|x86.ActiveCfg = Release|Win32
+		{BAE781E9-311D-4CF0-8CAD-6565F978DF04}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F593B6FE-DC6E-4BD7-9925-0070FE935870}
+	EndGlobalSection
+EndGlobal
