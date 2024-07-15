@@ -1,3 +1,4 @@
 [submodule "svenmod"]
 	path = svenmod
-	url = https://github.com/sw1ft747/svenmod.git
+	url = https://github.com/cmoscode/svenmod.git
+    branch = feature/1.2.5_sh0tx
